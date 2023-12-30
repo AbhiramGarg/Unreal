@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ADMIN/Desktop/Projects/unreal/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/0P/K7LOQ7V35EWIXY9NGKP0CP.uasset",
+				"C:/Users/ADMIN/Desktop/Projects/unreal/FirstPersonTemplate/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"C:/Users/ADMIN/Desktop/Projects/unreal/FirstPersonTemplate/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/ADMIN/Desktop/Projects/unreal/FirstPersonTemplate/Content/FirstPerson/Blueprints/BP_Target.uasset",
+				"C:/Users/ADMIN/Desktop/Projects/unreal/FirstPersonTemplate/Content/FirstPerson/Blueprints/GM_Target.uasset",
+				"C:/Users/ADMIN/Desktop/Projects/unreal/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/R4/76MPPFL52IZOLQ1GKDMGJT.uasset",
+				"C:/Users/ADMIN/Desktop/Projects/unreal/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/1L/W2KU1K4K3OI8KA2ISCVAHG.uasset",
+				"C:/Users/ADMIN/Desktop/Projects/unreal/FirstPersonTemplate/Content/FirstPerson/Blueprints/WBP_ui.uasset"
+			]
+		}
+	]
+}
